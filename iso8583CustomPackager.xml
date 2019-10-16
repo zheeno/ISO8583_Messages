@@ -20,7 +20,7 @@
       id="2"
       length="19"
       name="Primary Account number"
-      class="org.jpos.iso.IFB_LLNUM"/>
+      class="com.efulltech.efull_nibss_bridge.epms.packager.Z_LLVAR"/>
   <isofield
       id="3"
       length="6"
