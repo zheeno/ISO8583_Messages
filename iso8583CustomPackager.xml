@@ -20,7 +20,7 @@
       id="2"
       length="19"
       name="Primary Account number"
-      class="org.jpos.iso.IFA_LLCHAR"/>
+      class="org.jpos.iso.IFA_LLNUM"/>
   <isofield
       id="3"
       length="6"
@@ -172,12 +172,12 @@
       id="32"
       length="11"
       name="Acquirer institution identification code"
-      class="org.jpos.iso.IFA_LLCHAR"/>
+      class="org.jpos.iso.IFA_LLNUM"/>
   <isofield
       id="33"
       length="11"
       name="Forwarding institution identification code"
-      class="org.jpos.iso.IFA_LLCHAR"/>
+      class="org.jpos.iso.IFA_LLNUM"/>
   <isofield
       id="34"
       length="28"
