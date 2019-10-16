@@ -16,12 +16,11 @@
       length="16"
       name="Bitmap"
       class="org.jpos.iso.IFA_BITMAP"/>
-      <!-- 19 -->
   <isofield
       id="2"
-      length="40"
+      length="19"
       name="Primary Account number"
-      class="org.jpos.iso.IFA_LLNUM"/>
+      class="org.jpos.iso.IFA_NUMERIC"/>
   <isofield
       id="3"
       length="6"
