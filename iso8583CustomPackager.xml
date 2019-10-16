@@ -20,7 +20,7 @@
       id="2"
       length="19"
       name="Primary Account number"
-      class="org.jpos.iso.IFA_NUMERIC"/>
+      class="org.jpos.iso.IF_CHAR"/>
   <isofield
       id="3"
       length="6"
